@@ -1,2 +1,10 @@
 <b>News Update:</b><br>
-- Bạn đã cập nhật chưa? :D
+2.3.104: Sửa icon và thêm thông báo trong Cài đặt.<br>
+2.3.103: Thêm badge hiển thị số lượng thành viên bị kick và bị chặn, sửa lại loader.<br>
+2.3.102: Sửa lỗi công cụ không chạy khi vào Cài đặt.<br>
+2.3.101: Thêm loader (chờ trang tải xong).<br>
+2.3.100: Phiên bản thử nghiệm đầu tiên.<br>
+2.2.0+: Thêm Tiện ích Facebook (bật tắt khiên avatar, chặn seen tin nhắn và seen story Facebook), cập nhật đăng nhập bằng tài khoản Facebook, cập nhật lọc mem v2.<br>
+2.1.0+: Thêm tiện ích Nhóm (quét bình luận và lọc mem v1) và chức năng đăng nhập tự động.<br>
+2.0.0: Tạo giao diện Cài đặt cho tiện ích, thêm tính năng xoá bài và chặn các bài share video livestream.<br>
+1.0.0: Chức năng cơ bản gồm Kick và Chặn thành viên trong nhóm.
