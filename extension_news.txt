@@ -1,5 +1,5 @@
 <b>News Update:</b><br>
-2.3.104: Sửa icon và thêm thông báo trong Cài đặt.<br>
+2.3.104: Sửa icon và thêm bảng thông báo trong Cài đặt. Tích hợp PREMIUM và nâng cấp bảo mật.<br>
 2.3.103: Thêm badge hiển thị số lượng thành viên bị kick và bị chặn, sửa lại loader.<br>
 2.3.102: Sửa lỗi công cụ không chạy khi vào Cài đặt.<br>
 2.3.101: Thêm loader (chờ trang tải xong).<br>
