@@ -1,4 +1,4 @@
-<strong>NEWS UPDATE:</strong><br>
+<strong>NEWS UPDATE:</strong><i>(Thỉnh thoảng bị lỗi chỉ cần tải lại trang là được :v)</i><br>
 <b>2.3.105:</b> Sửa lỗi extension không chạy trên trình duyệt cũ, có thể quăng thẳng link nhóm hoặc trang cá nhân vào mà không cần get id (ngoại trừ id bài viết).<br>
 <b>2.3.104:</b> Sửa icon và thêm bảng thông báo trong Cài đặt. Tích hợp PREMIUM và nâng cấp bảo mật.<br>
 <b>2.3.103:</b> Thêm badge hiển thị số lượng thành viên bị kick và bị chặn, sửa lại loader.<br>
