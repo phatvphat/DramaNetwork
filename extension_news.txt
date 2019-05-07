@@ -1,6 +1,6 @@
 <strong>LƯU Ý: Đối với TIỆN ÍCH FACEBOOK và TIỆN ÍCH NHÓM, bạn cần ĐĂNG NHẬP sẵn trên web FACEBOOK.COM và phải trùng với tài khoản bạn Đăng nhập ở đây (trong mục CÀI ĐẶT) để Extension có thể hoạt động chính xác.</strong><br>
 <b>Sau khi cài / cập nhật tiện ích này, vui lòng tải lại trang Facebook để tiện ích hoạt động tốt hơn. Nếu bạn thêm/xoá vai trò quản lí trang của mình, hãy cập nhật lại TOKEN.</b><br>
-<b>2.4.0:</b> Thay đổi giao diện tiện ích và sửa vài thứ.<br>
+<b>2.4.0:</b> Thay đổi giao diện tiện ích (dark theme) và sửa vài thứ.<br>
 <b>2.3.111:</b> Sửa lại vài thứ và thêm tính năng Xoá hàng loạt.<br>
 <b>2.3.108:</b> Sửa vài thứ linh tinh. :v<br>
 <a target="_blank" href="https://phatvphat.github.io/DramaNetwork/">[ See more news... ]</a>
